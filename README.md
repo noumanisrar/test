@@ -1,5 +1,9 @@
-<p align="center"><a href="https://github.com/manadinho/lucent" target="_blank"><img src="http://localhost:8001/images/logo-black.png" width="400" alt="Lucent Logo"></a></p>
+<p align="center">![Laravel Translation UI](lucent-logo-light.png)</p>
+<div align="center">
+  
+![Lucent](lucent-logo-light.png)
 
+</div>
 ## Introduction
 
 Welcome to **Lucent** – the Open Source, Self Hosted error tracking service tailored for Laravel applications. Drawing inspiration from esteemed services such as Flare and Sentry, Lucent offers the freedom and flexibility of open-source software, combined with the robustness required for error logging.
