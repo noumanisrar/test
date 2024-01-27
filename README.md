@@ -45,13 +45,13 @@ Run seeder to seed superadmin data
 ```bash
 php artisan db:seed
 ```
-Install npm dependencies
-```bash
-npm install
-```
 Publish assets for bladewindUI
 ```bash
 php artisan vendor:publish --provider="Mkocansey\Bladewind\BladewindServiceProvider" --tag=bladewind-public --force
+```
+Install npm dependencies
+```bash
+npm install
 ```
 Compile npm packages
 ```bash
