@@ -1,16 +1,16 @@
-<p align="center">![Laravel Translation UI](lucent-logo-light.png)</p>
 <div align="center">
   
 ![Lucent](lucent-logo-light.png)
 
 </div>
+
 ## Introduction
 
 Welcome to **Lucent** – the Open Source, Self Hosted error tracking service tailored for Laravel applications. Drawing inspiration from esteemed services such as Flare and Sentry, Lucent offers the freedom and flexibility of open-source software, combined with the robustness required for error logging.
 
 With Lucent, you can take charge of monitoring your Laravel applications by hosting your own error tracking server. Say goodbye to the constraints of paid services and embrace the limitless potential of tracking numerous Laravel projects without any additional cost.
 
-### Features
+## Features
 
 - **Multi-Project Management:** Host Lucent on your server and start tracking an unlimited number of Laravel projects.
 - **Team Collaboration:** Create multiple teams, add members, and assign roles with ease. Lucent supports 'User' and 'Admin' roles for nuanced access control.
